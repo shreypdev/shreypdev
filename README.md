@@ -2,8 +2,20 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
-### 🛠 &nbsp;Tech Stack
+### 👨🏽‍💻 &nbsp;About Me
 
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently in 4th year studying Computer Science at the University of Victoria.\
+🚧 &nbsp;Currently working on a carpool application - [Ryden](https://github.com/ryden-team)\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and App development.\
+⚽️ &nbsp;In my free time, I like to play soccer.\
+💬 &nbsp;Feel free to reach out to me for consultation, volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at shreypdev@gmail.com. I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://www.shreypdev.com/docs/Resume.pdf) for more details about me. I'm open to feedback and suggestions!\
+👔 &nbsp;Visit my [LinkedIn](https://www.linkedin.com/in/shrey-p-a61a6b95/)
+
+---
+### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -107,5 +119,5 @@ Python                   3 repos             ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ---
-### 😂 A Random Joke
+### 😂 &nbsp;A Random Joke
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
