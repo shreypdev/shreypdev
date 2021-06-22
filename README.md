@@ -105,3 +105,7 @@ Python                   3 repos             ██░░░░░░░░░�
 
  Last Updated on 22/06/2021
 <!--END_SECTION:waka-->
+
+---
+### 😂 A Random Joke
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
