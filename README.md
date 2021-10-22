@@ -44,11 +44,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 424 Contributions in the Year 2021
  > 
-> 📦 98.9 kB Used in Github's Storage 
+> 📦 99.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -85,21 +85,16 @@ Sunday       91 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               13 hrs 50 mins      ████████████████████████░   98.24% 
-Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.73% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  14 hrs 5 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ryden                    13 hrs 30 mins      ████████████████████████░   95.94% 
-Ryden-API                33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.98% 
-robo-score               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      14 hrs 5 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -120,7 +115,7 @@ Python                   3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/shreypdev/shreypdev/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2021
+ Last Updated on 22/10/2021
 <!--END_SECTION:waka-->
 
 ---
