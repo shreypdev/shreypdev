@@ -85,18 +85,16 @@ Sunday       91 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSX                      7 mins              █████████████████░░░░░░░░   69.12% 
-JSON                     2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.86% 
-JavaScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   9.02%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-shrey website            10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -117,7 +115,7 @@ Python                   3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/shreypdev/shreypdev/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/11/2021
+ Last Updated on 09/11/2021
 <!--END_SECTION:waka-->
 
 ---
