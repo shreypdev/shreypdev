@@ -42,7 +42,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
@@ -85,21 +85,16 @@ Sunday       91 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               33 mins             ██████████████████░░░░░░░   71.53% 
-TypeScript               10 mins             █████░░░░░░░░░░░░░░░░░░░░   22.51% 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.22% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  47 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sample chat              37 mins             ███████████████████░░░░░░   78.72% 
-react-nodegui-starter    10 mins             █████░░░░░░░░░░░░░░░░░░░░   21.28%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      47 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -120,7 +115,7 @@ Python                   3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/shreypdev/shreypdev/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/12/2021
+ Last Updated on 21/12/2021
 <!--END_SECTION:waka-->
 
 ---
