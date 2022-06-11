@@ -87,20 +87,16 @@ Sunday       55 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 3 mins        ███████████████████████░░   92.42% 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.08% 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35% 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 18 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-wallet-mobile            2 hrs 42 mins       ████████████████████░░░░░   82.01% 
-ryden                    35 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.99%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 hrs 18 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -121,7 +117,7 @@ Python                   3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/shreypdev/shreypdev/master/charts/bar_graph.png) 
 
 
- Last Updated on 10/06/2022 18:48:09 UTC
+ Last Updated on 11/06/2022 18:45:02 UTC
 <!--END_SECTION:waka-->
 
 ---
